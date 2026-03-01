@@ -1,4 +1,4 @@
-## Word Generator from Letter Pool 
+## ScrabbleSolver
 
 A simple Java console application that generates all possible dictionary words that can be formed from a given pool of letters.
 
