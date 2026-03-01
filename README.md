@@ -28,19 +28,11 @@ Checks if each word can be formed using the given letters
 
 If possible → the word is printed
 
-## Project Structure
-project-folder/
-│
-├── src/
-│   ├── Main.java
-│   └── dic.txt
-│
-└── README.md
-
 ## Example
-Input:
+## Input:
 Enter a pool of letters: tca
-Output:
+
+## Output:
 cat
 act
 at
