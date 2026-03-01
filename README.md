@@ -1,4 +1,4 @@
-## Word Generator from Letter Pool (Java)
+## Word Generator from Letter Pool 
 
 A simple Java console application that generates all possible dictionary words that can be formed from a given pool of letters.
 
@@ -73,6 +73,4 @@ dog
 tac
 
 
-🔥 Using Trie for faster dictionary search
 
-🔥 Allowing wildcard characters (*)
